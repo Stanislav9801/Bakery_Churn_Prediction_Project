@@ -1,4 +1,4 @@
-# Bakery customers churn prediction.  
+# Bakery_Customers_Churn_Prediction  
   
 ## Project overview
 Client: A large coffee and bakery chain.  
